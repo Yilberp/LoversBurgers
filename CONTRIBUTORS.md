@@ -10,3 +10,11 @@
 - Age: 22
 - GitHub: [J-Andres-Rodriguez](https://github.com/J-Andres-Rodriguez)
 
+---------
+
+- Place: Cúcuta, Colombia
+- Age: 21
+- GitHub: [J-Andres-Rodriguez](https://github.com/Juanandresfl)
+
+
+
