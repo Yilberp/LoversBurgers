@@ -25,3 +25,8 @@
 - GitHub: [eduardcantillo](https://github.com/eduardcantillo)
 
 
+---------
+
+- Place: Cúcuta, Colombia
+- Age: 21
+- GitHub: [CristianCamargo04](https://github.com/CristianCamargo04)
